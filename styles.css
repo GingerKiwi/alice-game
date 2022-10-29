@@ -7,16 +7,37 @@
 
 /* Colour Variables */
 
+/* HTML defaults */
+html {
+    scroll-behavior: smooth;
+}
 
 /* =================
     BODY
 ================= */
 
 /* elements */
+header {
+    overflow: hidden;
+}
 
 /* ids */
 
 /* classes */
+a.skip-to-main {
+    position: absolute;
+    color: rgb(94, 94, 245);
+    border-radius: 0 0 0.1rem 0.1rem;
+    background-color: white;
+    padding: .25rem .5rem;
+    left: 0.5rem;
+    transform: translateY(-200%);
+    transition: transform 200ms ease-in;
+}
+
+a.skip-to-main:focus {
+    transform: translateY(0%);
+}
 
 
 /* =================
