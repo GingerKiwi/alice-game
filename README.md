@@ -1,12 +1,14 @@
 # **About**
 It's a html/css/vanilla javascript text-based game with an Alice in Wonderland theme. (Google "Oregon Trail" for an example of this game type). 
 
-This is a repo geared towards new web devs who are learning open source and want to work and socialize with other devs. That includes the maintainer(s)! To keep things managable, I'm limiting the contributors to 10 for now. Quality over quantity.
+This is a repo geared towards new web devs who are learning open source and want to work and socialize with other devs. That includes the maintainer(s)! To keep things managable, I'm limiting the contributors to 10 for now. Quality over quantity. 
 
 **If You'd Like to Contribute Please Follow These Three Steps:**
 1. Please introduce yourself in the discussions tab
-2. Have a quick read through the CONTRIBUTING.md file
+2. Have a quick read through the CONTRIBUTING.md and README.md files
 3. Comment in the issue that you'd like to work on.
+
+If we still have contributor spots open I'll assign the issue.
 
 ## Alice Game Background
 
