@@ -1,8 +1,16 @@
-# Alice Game Background
+# *To Contribute:*
+This is a repo geared towards new web devs who are learning open source and want to work and socialize with other devs. That includes the maintainer(s)!
+
+**If You'd Like to Contribute Please Follow These Three Steps:**
+1. Please introduce yourself in the discussions tab
+2. Have a quick read through the CONTRIBUTING.md file
+3. Comment in the issue that you'd like to work on.
+
+## Alice Game Background
 
 This game was orignally created as a python console game as part of a computer science course at Massey University, New Zealand in 2020. Part of the assignment was documenting the thought process using comments. (So there's a lot of comments in the .py file!). The assignment was the classic [Camel game](http://programarcadegames.com/index.php?lang=en&chapter=lab_camel) from "Program Arcade Games and With Python And Pygame" and orginally concevied in 1979 in "More BASIC Computer Games".
 
- However, the premise of the game is both racist and colonlialist - stealing an camel from the "natives" and racing away from them across the Mobi desert. So I changed the theme to Alice from Tim Burton's Alice in Wonderland movie rescuing the Red Queen's Bandersnatch from his imprissionment and racing across Underland to get to the White Queen's castle. I also added a random chance that the player would be attacked by the Jabberwocky, be killed, and the Jabberwocky poem would print on the screen.
+However, the premise of the game is both racist and colonlialist - stealing an camel from the "natives" and racing away from them across the Mobi desert. So I changed the theme to Alice from Tim Burton's Alice in Wonderland movie rescuing the Red Queen's Bandersnatch from his imprissionment and racing across Underland to get to the White Queen's castle. I also added a random chance that the player would be attacked by the Jabberwocky, be killed, and the Jabberwocky poem would print on the screen.
 
 ## From Python Console to Javascript Text Based Web App
 
