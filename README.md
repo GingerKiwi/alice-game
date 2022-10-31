@@ -1,5 +1,5 @@
 # **About**
-It's a html/css/vanilla javascript text-based game with an Alice in Wonderland theme. (Google "Oregon Trail" for an example of this game type). 
+It's a html/css/vanilla javascript text-based game with an Alice in Wonderland theme. 
 
 This is a repo geared towards new web devs who are learning open source and want to work and socialize with other devs. That includes the maintainer(s)! To keep things managable, I'm limiting the contributors to 10 for now. Quality over quantity. 
 
@@ -9,6 +9,8 @@ This is a repo geared towards new web devs who are learning open source and want
 3. Comment in the issue that you'd like to work on.
 
 If we still have contributor spots open I'll assign the issue.
+
+A great example of a text-based game is the classic [Oregon Trail](https://en.wikipedia.org/wiki/The_Oregon_Trail_(1985_video_game). Alice will have much better font and graphics, but will still be text-based without animated elements.
 
 ## Alice Game Background
 
