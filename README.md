@@ -3,6 +3,8 @@ It's a html/css/vanilla javascript text-based game with an Alice in Wonderland t
 
 This is a repo geared towards new web devs who are learning open source and want to work and socialize with other devs. That includes the maintainer(s)! To keep things managable, I'm limiting the contributors to 10 for now. Quality over quantity. 
 
+Many of the issues are really small. The main goal is to get used to the GitHub workflow, with the secondary goal of practicing coding. This makes contributing to open source accessible for really new devs that are just learning the basics of html, as well as those of us that know more advanced css and javascript.
+
 **If You'd Like to Contribute Please Follow These Three Steps:**
 1. Please introduce yourself in the [discussions tab](https://github.com/GingerKiwi/alice-game/discussions/4)
 2. Have a quick read through the CONTRIBUTING.md and README.md files
