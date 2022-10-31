@@ -10,9 +10,6 @@ This is a repo geared towards new web devs who are learning open source and want
 
 If we still have contributor spots open I'll assign the issue.
 
-## Many of the Issues for PRs are Really Small. 
-The main goal of this project is to get used to the GitHub workflow, with the secondary goal of practicing coding. This makes contributing to open source accessible for really new devs that are just learning the basics of html and/or markdown, as well as those of us that know more advanced css and javascript.
-
 ## Alice Game Background
 
 This game was orignally created as a python console game as part of a computer science course at Massey University, New Zealand in 2020. Part of the assignment was documenting the thought process using comments. (So there's a lot of comments in the .py file!). The assignment was the classic [Camel game](http://programarcadegames.com/index.php?lang=en&chapter=lab_camel) from "Program Arcade Games and With Python And Pygame" and orginally concevied in 1979 in "More BASIC Computer Games".
@@ -29,11 +26,13 @@ The repo is being started with only a small amount of code and the app will not 
 
 ## Supporting Other New Devs Learning Open Source & GitHub
 
-In 2022, I participated in my first Hacktoberfest and Hacksquad while in the Scrimba Frontend Developer Career Path. Starting in open source can be intimidating. Turning this Alice python game into a vanilla javascript text based game web app could be a fun way for new devs like myself to collaborate and learn how to work on an open source project together. Version control was completely lacking from the unviersity courses I took in 2020-2021, so maintaining an open source repo geared towards new devs seems a good social way to learn and contrinute to the open source community. I know I will make mistakes (likely many), but that's a good way to learn. I hope others working on this project will bear with me while I learn how to maintain an open source repo.
+In 2022, I participated in my first Hacktoberfest and Hacksquad while in the Scrimba Frontend Developer Career Path. Starting in open source can be intimidating! Turning this Alice python game into a vanilla javascript text based game web app could be a fun way for new devs like myself to collaborate and learn how to work on an open source project together. 
 
-### Small Issues and Pull Requests
+Version control was completely lacking from the unviersity courses I took in 2020-2021, so maintaining an open source repo geared towards new devs seems a good social way to learn and contrinute to the open source community. I know I will make mistakes (likely many), but that's a good way to learn. I hope others working on this project will bear with me while I learn how to maintain an open source repo.
 
-Given that this is a repo for us new devs to learn together, I'm aiming for the issues and the PRs that solve them to be small and doable for first time web devs. These can be as simple as adding a single heading and text, a short basic vanilla javascript function, or changing the colour variable in the CSS.
+### Intentionally Small Issues and Pull Requests
+
+Given that this is a repo for us new devs to learn together, I'm aiming for the issues and the PRs that solve them to be small and doable for first time web devs. These can be as simple as adding a single heading and text, a short basic vanilla javascript function, or changing the colour variable in the CSS. This makes contributing to open source accessible for really new devs that are just learning the basics of html and/or markdown, as well as those of us that know more advanced css and javascript.
 
 ## Accessibility - Part of Every PR - Not Retrofitted and Refactored
 
