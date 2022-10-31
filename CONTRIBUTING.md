@@ -33,3 +33,30 @@ As this is the first time I'm maintaining an open source repo, I'm limiting the 
 
 These apply even after Hacktoberfest is over.
 [Hacktoberfest Rules](https://hacktoberfest.com/participation/#contributors)
+
+
+_____
+
+
+# File Name Conventions
+
+## HTML elements - Ids and Classes
+
+Ids and Classes for HTML elements should be named in lower case with '-' in between words. For example:
+      `<div class="player-choice-radios" id="player-choice-radios">
+				<div class="player-choice-radios">
+					<input 
+					type="radio"
+					id="drink"
+					value="drink"
+					name="player-choice-radios"
+					>
+					<label for="drink">Take a Drink</label>
+				</div>`
+        
+## Javascript Variables
+
+Javascript variables should be the camel case of their associated html ids
+
+for example:
+`const playerChoiceRadios = document.getElementById('player-choice-radios')`
