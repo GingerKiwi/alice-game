@@ -28,11 +28,15 @@ html {
 /* =================
     BODY
 ================= */
-
+@font-face {
+    font-family: 'Alice in Wonderland';
+    src: url('assets/fonts/Alice_in_Wonderland_3.ttf');
+}
 /* elements */
 body {
     background-color: var(--main-bg-colour);
     color: var(--secondary-accent-colour);
+    font-family: 'Alice in Wonderland';
 }
 
 header {
