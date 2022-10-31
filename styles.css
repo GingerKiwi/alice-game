@@ -6,6 +6,19 @@
 /* Typography variables */
 
 /* Colour Variables */
+:root {
+
+/* Typography variables */
+
+
+/* Colour Variables */
+    --main-bg-colour: hsl(222, 87%, 6%);
+    --secondary-bg-colour: hsl(187, 91%, 18%);
+    --main-accent-colour:  hsl(150, 17%, 68%);
+    --secondary-accent-colour: hsl(48, 41%, 83%);
+    --alice-blue-colour: hsl(202, 50%, 59%);
+   
+}
 
 /* HTML defaults */
 html {
@@ -17,6 +30,11 @@ html {
 ================= */
 
 /* elements */
+body {
+    background-color: var(--main-bg-colour);
+    color: var(--secondary-accent-colour);
+}
+
 header {
     overflow: hidden;
 }
