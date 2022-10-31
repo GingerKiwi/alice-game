@@ -10,7 +10,7 @@ This is a repo geared towards new web devs who are learning open source and want
 
 If we still have contributor spots open I'll assign the issue.
 
-A great example of a text-based game is the classic [Oregon Trail](https://en.wikipedia.org/wiki/The_Oregon_Trail_(1985_video_game). 
+A great example of a text-based game is the classic [Oregon Trail](https://www.smithsonianmag.com/innovation/how-you-wound-playing-em-oregon-trailem-computer-class-180959851). 
 Alice will have much better font and graphics, but will still be text-based without animated elements.
 
 ## Alice Game Background
