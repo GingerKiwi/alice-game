@@ -1,4 +1,5 @@
-*November 1, 2022: Note I'm focusing on getting more freelance writing contracts this week (because we all need to pay the bills!). I'm hoping to be back actively maintaining this the second week of November. PRs from October will be reviewed this evening and tomorrow.*
+**November 1, 2022:**
+*Note I'm focusing on getting more freelance writing contracts this week (because we all need to pay the bills!). I'm hoping to be back actively maintaining this the second week of November. PRs from October will be reviewed this evening and tomorrow. Thank you to everyone who contributed during Hacktoberfest!*
 
 # **About**
 It's a html/css/vanilla javascript text-based game with an Alice in Wonderland theme. 
