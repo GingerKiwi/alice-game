@@ -1,6 +1,6 @@
 **November 4, 2022:**
 
-*Note I'm planning to be back actively maintaining this project the second week of November. I'm focusing on getting more freelance writing contracts this week (because we all need to pay the bills!). *
+*Note I'm planning to be back actively maintaining this project the second week of November. I'm focusing on getting more freelance writing contracts this week (because we all need to pay the bills!).*
 
 *Now that the Hacktoberfest is over, this project is going to progress slowly and steadily. I'm working on setting up some project management tools, an inital project proposal, and delegating parts of the Alice project so that it stays doable for everyone. (No one needs to end up with as sore a head and grumpy as the Red Queen!) I've created and managed other sorts of projects (not software) and a slow and thoughtful start means a much better experience for everyone! The frantic Hacktoberfest pace isn't sustainable year round. ;-)*
 
