@@ -7,9 +7,10 @@
 *If you want to be ahead of the game when we start posting more issues, have a read and even try to follow along with this awesome, recent article while you're waiting.
 [Create Your First Github Project in VSCode. By Jean-Christophe Chouinard, 12 October 2022](https://www.jcchouinard.com/create-your-first-github-project-in-vscode/ )*
 
-**Thank you to everyone who contributed during Hacktoberfest! 
-Happy Coding, and Welcome to Wonderland!
+**Thank you to everyone who contributed during Hacktoberfest! <br>
+Happy Coding, and Welcome to Wonderland! <br>
 Liz, GingerKiwi**
+___
 
 # **About**
 It's a html/css/vanilla javascript text-based game with an Alice in Wonderland theme. 
