@@ -13,7 +13,9 @@ Liz, GingerKiwi**
 ___
 
 # **About**
-It's a html/css/vanilla javascript text-based game with an Alice in Wonderland theme. 
+
+*Welcome to Wonderland!*
+The Alice in Wonderland Project is a html/css/vanilla javascript text-based game with an Alice in Wonderland theme. 
 
 This is a repo geared towards new web devs who are learning open source and want to work and socialize with other devs. That includes the maintainer(s)! Most issues and PRs are small. To keep things managable, I'm limiting the contributors to 10 for now. Quality over quantity. 
 
