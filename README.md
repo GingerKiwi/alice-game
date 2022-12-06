@@ -1,8 +1,8 @@
-**November 4, 2022:**
+**December 06, 2022**
 
-*Now that the Hacktoberfest is over, this project is going to progress slowly and steadily. I'm working on setting up some project management tools, an inital project proposal, and delegating parts of the Alice project so that it stays doable for everyone. (No one needs to end up with as sore a head and grumpy as the Red Queen!) I've created and managed other sorts of projects (not software) and a slow and thoughtful start means a much better experience for everyone! The frantic Hacktoberfest pace isn't sustainable year round. ;-)*
+After a whirlwind busy November, I'm back maintaining this project. I've finally learned how to manage an open source repo in VSCode on my local MacBook, so I can help others and have an organized project. Over this week I'll be publishing some step-by-step guidelines for beginners on how to create, name, and work with branches so we can all keep the Alice in Wonderland Project organized.
 
-*I'm planning to be back actively maintaining this project at the end of the second week of November (11th-14th ish). I'm focusing on getting more freelance writing contracts this week (because we all need to pay the bills!). I've had multiple recruiters contact me in the past 36 hours about technical writing contracts.* **So I'm busy but definatley doing the Futterwacken!** 
+You'll notice that I've moved most of the .md (markdown) files into their own new directory "Documentation". That makes our main file list easier to read, and should make the resources easier to find too.
 
 *If you want to be ahead of the game when we start posting more issues, have a read and even try to follow along with this awesome, recent article while you're waiting.
 [Create Your First Github Project in VSCode. By Jean-Christophe Chouinard, 12 October 2022](https://www.jcchouinard.com/create-your-first-github-project-in-vscode/ )*
