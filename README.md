@@ -1,5 +1,21 @@
+**December 06, 2022**
+
+After a whirlwind busy November, I'm back maintaining this project. I've finally learned how to manage an open source repo in VSCode on my local MacBook, so I can help others and have an organized project. Over this week I'll be publishing some step-by-step guidelines for beginners on how to create, name, and work with branches so we can all keep the Alice in Wonderland Project organized.
+
+You'll notice that I've moved most of the .md (markdown) files into their own new directory "Documentation". That makes our main file list easier to read, and should make the resources easier to find too.
+
+*If you want to be ahead of the game when we start posting more issues, have a read and even try to follow along with this awesome, recent article while you're waiting.
+[Create Your First Github Project in VSCode. By Jean-Christophe Chouinard, 12 October 2022](https://www.jcchouinard.com/create-your-first-github-project-in-vscode/ )*
+
+**Thank you to everyone who contributed during Hacktoberfest! <br>
+Happy Coding, and Welcome to Wonderland! <br>
+Liz, GingerKiwi**
+___
+
 # **About**
-It's a html/css/vanilla javascript text-based game with an Alice in Wonderland theme. 
+
+*Welcome to Wonderland!*
+The Alice in Wonderland Project is a html/css/vanilla javascript text-based game with an Alice in Wonderland theme. 
 
 This is a repo geared towards new web devs who are learning open source and want to work and socialize with other devs. That includes the maintainer(s)! Most issues and PRs are small. To keep things managable, I'm limiting the contributors to 10 for now. Quality over quantity. 
 
