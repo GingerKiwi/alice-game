@@ -1,3 +1,25 @@
+## **Summer 2023: What's Happening with The Alice in Wonderland Project?**
+
+[Update on https://gingerkiwi.blog](https://gingerkiwi.blog/blog/2023-04-03-whats-happening-with-the-alice-in-wonderland-project)
+
+The Alice in Wonderland Project started a lot of enthusiasm, but without much planning during Hacktoberfest 2022. Getting involved in open source and learning GitHub workflows can be intimidating and challenging for new developers. So I created an open source repo to help other new developers learn GitHub work flows, learn how to contribute to a remote team project, get involved with open source while being social and making something fun.
+
+However, I've since realized that I was actually creating something more than an open source project. It's the fledgling curriculum of a project based learning program. I stopped teaching in 2019, but I guess I've never actually stopped being a teacher. The best way to accomplish the goals of the project are to take a pause, reflect, and start over using my teacher skills to create a comprehensive experiential, project based learning curriculum.
+
+So instead of just building something as we go, I'm going to have to:
+
+- completely build out the project in a private repo
+- create a new public repo so we can start fresh
+- pre-plan the steps in building the project
+- develop onboarding
+- figure out roles, responsibilities, and how many devs are ideal at once
+- create lesson plans, and written and/or video lessons
+- find one or more experienced devs that would be willing to serve as mentors/maintainers on different parts of the project (eg, html, css, js)
+- create a landing page and signup form
+- most likely create a discord community to allow video chat, screen sharing, and a place for longer discussions. The challenge will be to be clear about what discussions belong on discord, and what should be part of the GitHub repo.
+
+I'm aiming to have things ready for September so we're ready for the influx of people during Hacktoberfest 2023.
+
 **December 06, 2022**
 
 After a whirlwind busy November, I'm back maintaining this project. I've finally learned how to manage an open source repo in VSCode on my local MacBook, so I can help others and have an organized project. Over this week I'll be publishing some step-by-step guidelines for beginners on how to create, name, and work with branches so we can all keep the Alice in Wonderland Project organized.
